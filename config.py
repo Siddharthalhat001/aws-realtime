@@ -1,0 +1,6 @@
+customhost = "database-1.cmx2qxngykwm.ap-south-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "admin123"
+customdb = "employee"
+custombucket = "add-employee-sid"
+customregion = "ap-south-1"
