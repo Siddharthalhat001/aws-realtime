@@ -1,0 +1,1 @@
+   create table employee(emp_id varchar(20),first_name varchar(20),last_name varchar(20),pri_skill varchar(20),locationvarchar(20));
